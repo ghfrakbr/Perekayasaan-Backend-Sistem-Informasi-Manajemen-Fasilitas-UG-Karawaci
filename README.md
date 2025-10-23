@@ -1,4 +1,3 @@
----
 
 # 🚀 Panduan Menjalankan Project Laravel
 
@@ -6,14 +5,13 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan project Laravel secara loka
 
 ## ✅ Prasyarat
 
-Pastikan kamu sudah menginstal:
+Pastikan sudah menginstal:
 
 * [Postgre - PGAdmin](https://www.pgadmin.org/download/)
 * [Composer](https://getcomposer.org/)
 * PHP minimal versi 8.1
 * Git (opsional)
 
----
 
 ## 🛠️ Langkah-Langkah Setup
 
@@ -54,7 +52,7 @@ DB_HOST=127.0.0.1
 DB_PORT=5432
 DB_DATABASE=db_fasilitas
 DB_USERNAME=postgres
-DB_PASSWORD=root
+DB_PASSWORD= (sesuaikan dengan pasword postgre)
 ```
 
 > **Catatan**: Sesuaikan `DB_USERNAME` dan `DB_PASSWORD` jika kamu mengatur password untuk Postgre kamu.
@@ -88,11 +86,3 @@ Aplikasi sekarang bisa diakses di:
 ```
 http://localhost:8000
 ```
-
-## 📄 Lisensi
-
-Project ini menggunakan lisensi bebas (misalnya MIT, silakan sesuaikan jika perlu).
-
----
-
-Kalau kamu ingin saya buatin file `README.md` siap pakai, tinggal bilang aja 😊
