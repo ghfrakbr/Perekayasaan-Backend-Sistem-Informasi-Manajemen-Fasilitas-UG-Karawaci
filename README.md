@@ -18,7 +18,7 @@ Pastikan sudah menginstal:
 ### 1. Clone Repository (jika belum)
 
 ```bash
-git clone https://github.com/RizkiAlifianto23/SIFASMA.git
+git clone https://github.com/ghfrakbr/Perekayasaan-Backend-Sistem-Informasi-Manajemen-Fasilitas-UG-Karawaci.git
 cd nama-project
 ```
 
